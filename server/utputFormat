@@ -1,0 +1,10 @@
+HTTP/1.1 400 Bad Request
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 83
+ETag: W/"53-Um43Kplp89+mP3lv8aJ+cQXvZwo"
+Date: Fri, 11 Apr 2025 20:59:00 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)"}
